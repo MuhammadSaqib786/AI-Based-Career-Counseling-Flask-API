@@ -1,0 +1,9 @@
+jobID,title,requiredSkills
+1,Data Analyst,"['Python', 'SQL', 'Excel', 'Statistics']"
+2,Web Developer,"['HTML', 'CSS', 'JavaScript', 'React']"
+3,Machine Learning Engineer,"['Python', 'Machine Learning', 'TensorFlow', 'Data Science']"
+4,Database Administrator,"['SQL', 'Oracle', 'Performance Tuning', 'Backup']"
+5,Frontend Developer,"['React', 'JavaScript', 'CSS', 'UI/UX']"
+6,Python Developer,"['Python', 'Flask', 'APIs', 'MongoDB']"
+7,Business Analyst,"['Excel', 'Power BI', 'Requirement Analysis', 'Communication']"
+8,AI Researcher,"['Deep Learning', 'PyTorch', 'NLP', 'Python']"

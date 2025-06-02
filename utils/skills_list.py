@@ -22,7 +22,7 @@ COMMON_SKILLS = {
     'linux', 'windows', 'jupyter', 'colab', 'vs code', 'intellij', 'eclipse', 'anaconda', 'google colab',
 
     # Soft Skills
-    'communication', 'teamwork', 'leadership', 'problem solving', 'critical thinking', 'time management', 'collaboration', 'presentation',
+    'communication', 'teamwork', 'leadership', 'problem solving', 'critical thinking', 'time management', 'collaboration', 'presentation', 'Network','Visio','Outlook','Teams',
 
     # Certifications / Tests
     'ielts', 'toefl', 'pmp', 'ceh', 'comptia', 'scrum', 'agile', 'azure fundamentals', 'aws certified', 'data camp', 'coursera', 'udemy',
